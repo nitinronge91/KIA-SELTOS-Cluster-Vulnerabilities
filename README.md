@@ -5,7 +5,8 @@ Product details are as follows:
 
 Instrument Cluster KIA Seltos - SW : 1.0, HW:1.0, Date of Manufacturer: 16 June 2023
 
-<img width="1139" alt="KIA_Cluster_Img" src="https://github.com/user-attachments/assets/2db7d9a8-1da6-4c84-bf84-25ecf9383970">
+<img width="1133" alt="386580515-2db7d9a8-1da6-4c84-bf84-25ecf9383970" src="https://github.com/user-attachments/assets/efd75017-2070-448b-8d5b-b03c485a6209">
+
 
 ## Initial Reconnisance
 As we followed black box PEN test approach, We need to tear down the cluster for intital reconissance.  As we removed the cluster from vehicle, Power Pin connections we got from vehicle.
