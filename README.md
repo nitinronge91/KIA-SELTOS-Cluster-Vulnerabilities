@@ -8,3 +8,21 @@ Instrument Cluster KIA Seltos - SW : 1.0, HW:1.0, Date of Manufacturer: 16 June 
 <img width="1139" alt="KIA_Cluster_Img" src="https://github.com/user-attachments/assets/2db7d9a8-1da6-4c84-bf84-25ecf9383970">
 
 
+
+## Intial Re
+As we followed black box approach, We need to tear down the cluster for intital reconissance. We 
+
+
+
+
+
+
+
+
+
+
+## Vulnerabilities Reported
+
+* [Odometer Manipulation for KIA SELTOS CVE-2024-51074](CVE/Odometer Manipulation For KIA SELTOS CVE-2024-51074)
+
+
