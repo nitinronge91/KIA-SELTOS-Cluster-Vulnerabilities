@@ -9,8 +9,11 @@ Instrument Cluster KIA Seltos - SW : 1.0, HW:1.0, Date of Manufacturer: 16 June 
 
 
 
-## Intial Re
-As we followed black box approach, We need to tear down the cluster for intital reconissance. We 
+## Initial Reconnisance
+As we followed black box PEN test approach, We need to tear down the cluster for intital reconissance.  As we removed the cluster from vehicle, Power Pin connections we got from vehicle.
+Now next step was to find CAN pins from socket!
+
+
 
 
 
