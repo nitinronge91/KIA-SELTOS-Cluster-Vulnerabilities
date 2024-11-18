@@ -23,6 +23,6 @@ As we followed black box approach, We need to tear down the cluster for intital 
 
 ## Vulnerabilities Reported
 
-* [Odometer Manipulation for KIA SELTOS CVE-2024-51074](CVE/Odometer Manipulation For KIA SELTOS CVE-2024-51074)
+ [Odometer Manipulation for KIA SELTOS CVE-2024-51074](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/636bec2787472aa1a68539806ab8c83697131c8e/CVE/Odometer%20Manipulation%20For%20KIA%20SELTOS%20CVE-2024-51074)
 
 
