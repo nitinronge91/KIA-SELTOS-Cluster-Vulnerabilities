@@ -9,8 +9,17 @@ Instrument Cluster KIA Seltos - SW : 1.0, HW:1.0, Date of Manufacturer: 16 June 
 
 
 ## Initial Reconnisance
-As we followed black box PEN test approach, We need to tear down the cluster for intital reconissance.  As we removed the cluster from vehicle, Power Pin connections we got from vehicle.
-Now next step was to find CAN pins from socket!
+We employed a black-box penetration testing approach for this assessment. To begin the initial reconnaissance, it was necessary to disassemble the instrument cluster from the vehicle. Upon removal, we identified the power supply pin connections using the vehicle's wiring system.
+
+The next step involved identifying the CAN communication pins on the cluster’s connector to access and analyze the In-Vehicle Network (IVN). Referring to the System-on-Chip (SoC) datasheet, we determined that the cluster was equipped with two CAN channels for communication. Using the controller’s pinout, we traced the connectivity to the connector pins and successfully identified the CAN_H and CAN_L pins, as shown in the accompanying diagram.
+
+We then configured a CAN interface on a PC to monitor traffic on both identified channels. Upon establishing the setup, we observed active CAN messages on one of the channels, indicating live communication on the CAN bus.
+This discovery served as a critical entry point for further testing. Leveraging the CAN and Unified Diagnostic Services (UDS) protocols, we proceeded to exploit the cluster’s communication network for in-depth analysis.
+
+![image](https://github.com/user-attachments/assets/d37bec7a-34c5-4a93-af0a-d8e679df475a)
+
+
+
 
 ## Vulnerabilities Reported
 
@@ -18,7 +27,17 @@ Now next step was to find CAN pins from socket!
 
 [ Control CAN communication for KIA SELTOS Cluster CVE-2024-51073](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/b61106ffaf12a8eb9c78607b0f5e7821d56cd964/CVE/Control%20CAN%20communication%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51073)
 
- [ Denial OF service via ECU Reset service for KIA SELTOS Cluster CVE-2024-51072](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/b61106ffaf12a8eb9c78607b0f5e7821d56cd964/CVE/Denial%20of%20Service%20via%20ECU%20Reset%20Service%20For%20KIA%20SELTOS%20CVE-2024-51072)
+ [ Denial Of service via ECU Reset service for KIA SELTOS Cluster CVE-2024-51072](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/b61106ffaf12a8eb9c78607b0f5e7821d56cd964/CVE/Denial%20of%20Service%20via%20ECU%20Reset%20Service%20For%20KIA%20SELTOS%20CVE-2024-51072)
+
+
+     
+## Authors:
+   Nitin Ronge(www.linkedin.com/in/nitin-ronge)
+   
+   Shakir zari(www.linkedin.com/in/shakir-zari)
+  
+   Anand Yadav(www.linkedin.com/in/anandyadav6962)
+   
 
  
 
