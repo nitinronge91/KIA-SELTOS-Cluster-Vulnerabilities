@@ -23,7 +23,7 @@ This discovery served as a critical entry point for further testing. Leveraging 
 
 ## Vulnerabilities Reported
 
- [Odometer Manipulation for KIA SELTOS CVE-2024-51074](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/5d8210d9ca11956ae50ac619c6233d59adb94e0d/CVE/Odometer%20Manipulation%20For%20KIA%20SELTOS%20CVE-2024-51074)
+ [Odometer Manipulation for KIA SELTOS CVE-2024-51074](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/bf55f0a66becf5b434f74002089f44100b3bfeed/CVE/Odometer%20Manipulation%20for%20KIA%20SELTOS%20CVE-2024-51074.md)
 
 [ Control CAN communication for KIA SELTOS Cluster CVE-2024-51073](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/b61106ffaf12a8eb9c78607b0f5e7821d56cd964/CVE/Control%20CAN%20communication%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51073)
 
