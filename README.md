@@ -24,11 +24,11 @@ This discovery served as a critical entry point for further testing. Leveraging 
 
 ## Vulnerabilities Reported
 
- [Odometer manipulation(increament) for KIA seltos cluster CVE-2024-51074](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/0446f6fe6299eb39310e996c73d5513e70d76353/CVE/Odometer%20Manipulation(Increase)%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51074.md)
+ [Odometer manipulation(increament) for KIA seltos vehicle cluster CVE-2024-51074](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/0446f6fe6299eb39310e996c73d5513e70d76353/CVE/Odometer%20Manipulation(Increase)%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51074.md)
 
- [Control CAN communication for KIA seltos cluster CVE-2024-51073](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/3755e3f692dce5b1ab06de2d04a2433c907ab21c/CVE/Control%20CAN%20communication%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51073.md)
+ [Control CAN communication for KIA seltos vehicle cluster CVE-2024-51073](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/3755e3f692dce5b1ab06de2d04a2433c907ab21c/CVE/Control%20CAN%20communication%20for%20KIA%20SELTOS%20Cluster%20CVE-2024-51073.md)
 
- [Denial Of service via ECU Reset service For KIA Sletos Cluster CVE-2024-50172](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/628b1550f0093f79380929074b6a5e6ca6f2d04b/CVE/Denial%20of%20Service%20via%20ECU%20Reset%20Service%20For%20KIA%20SELTOS%20CVE-2024-51072.md)
+ [Denial Of service via ECU Reset service For KIA Sletos vehicle Cluster CVE-2024-50172](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/628b1550f0093f79380929074b6a5e6ca6f2d04b/CVE/Denial%20of%20Service%20via%20ECU%20Reset%20Service%20For%20KIA%20SELTOS%20CVE-2024-51072.md)
 
      
 ## Authors:
