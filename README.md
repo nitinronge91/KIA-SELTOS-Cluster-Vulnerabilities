@@ -1,5 +1,6 @@
 # KIA-SELTOS-Vehicle-Cluster-Vulnerabilities
 This repository documents the vulnerabilities identified during penetration testing of the [KIA SELTOS](https://en.wikipedia.org/wiki/Kia_Seltos) (Indian Varient) vehicle cluster system. It provides a comprehensive record of findings, their potential impact on security, and recommended remediation steps. The aim is to enhance the security posture of automotive systems through detailed vulnerability documentation and actionable insights.This engaement was completely based on black box testing approach.
+we suspect that these vulnerabilities are present in majority of the KIA vehicles in Indian market .
 
 Product details are as follows:
 
