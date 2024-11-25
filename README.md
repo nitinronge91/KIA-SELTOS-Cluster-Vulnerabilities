@@ -9,8 +9,8 @@ Product details are as follows:
 
 ![](https://github.com/nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities/blob/198ca874bdaa652c88cb27cdaefbd4cace707c32/Cluster_KIA.gif)
 
-## Reconnisance
-We employed a black-box penetration testing approach for this assessment. To begin the initial reconnaissance, it was necessary to disassemble the instrument cluster from the vehicle. Upon removal, we identified the power supply pin connections using the vehicle's wiring system.
+##  Reconnisance
+We employed a black-box penetration testing approach for this assessment. To begin the initial  reconnisance, it was necessary to disassemble the instrument cluster from the vehicle. Upon removal, we identified the power supply pin connections using the vehicle's wiring system.
 
 The next step involved identifying the CAN communication pins on the cluster’s connector to access and analyze the In-Vehicle Network (IVN). Referring to the System-on-Chip (SoC) datasheet, we determined that the cluster was equipped with two CAN channels for communication. Using the controller’s pinout, we traced the connectivity to the connector pins and successfully identified the CAN_H and CAN_L pins, as shown in the accompanying diagram.
 
